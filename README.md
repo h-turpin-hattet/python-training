@@ -16,8 +16,8 @@ Finalized projects are published in dedicated repositories.
 ## Related Repositories
 | Repository | Description |
 |---|---|
-| [freecodecamp-projects](https://github.com/ton-username/freecodecamp-projects) | Certified freeCodeCamp projects |
-| [codewars-solutions](https://github.com/ton-username/codewars-solutions) | Codewars kata solutions by difficulty |
+| [freecodecamp-projects](https://github.com/h-turpin-hattet/freecodecamp-projects) | Certified freeCodeCamp projects |
+| [codewars-solutions](https://github.com/h-turpin-hattet/codewars-solutions) | Codewars kata solutions by difficulty |
 
 ## Goal
 Build a solid Python foundation toward QA Automation Engineering - pytest, GitHub Actions, and beyond.
